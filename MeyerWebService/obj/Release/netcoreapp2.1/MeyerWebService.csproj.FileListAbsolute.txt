@@ -1,0 +1,15 @@
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\bin\Release\netcoreapp2.1\MeyerWebService.deps.json
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\bin\Release\netcoreapp2.1\MeyerWebService.runtimeconfig.json
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\bin\Release\netcoreapp2.1\MeyerWebService.runtimeconfig.dev.json
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\bin\Release\netcoreapp2.1\MeyerWebService.dll
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\bin\Release\netcoreapp2.1\MeyerWebService.pdb
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\MeyerWebService.csprojAssemblyReference.cache
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\MeyerWebService.csproj.CoreCompileInputs.cache
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\MeyerWebService.RazorAssemblyInfo.cache
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\MeyerWebService.RazorAssemblyInfo.cs
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\MeyerWebService.AssemblyInfoInputs.cache
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\MeyerWebService.AssemblyInfo.cs
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\MeyerWebService.RazorTargetAssemblyInfo.cache
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\MeyerWebService.dll
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\MeyerWebService\obj\Release\netcoreapp2.1\MeyerWebService.pdb

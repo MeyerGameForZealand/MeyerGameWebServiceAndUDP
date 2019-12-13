@@ -1,0 +1,11 @@
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\bin\Debug\netcoreapp2.1\Playerconsumer.deps.json
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\bin\Debug\netcoreapp2.1\Playerconsumer.runtimeconfig.json
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\bin\Debug\netcoreapp2.1\Playerconsumer.runtimeconfig.dev.json
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\bin\Debug\netcoreapp2.1\Playerconsumer.dll
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\obj\Debug\netcoreapp2.1\Playerconsumer.csproj.CoreCompileInputs.cache
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\obj\Debug\netcoreapp2.1\Playerconsumer.AssemblyInfoInputs.cache
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\obj\Debug\netcoreapp2.1\Playerconsumer.AssemblyInfo.cs
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\bin\Debug\netcoreapp2.1\Playerconsumer.pdb
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\obj\Debug\netcoreapp2.1\Playerconsumer.csprojAssemblyReference.cache
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\obj\Debug\netcoreapp2.1\Playerconsumer.dll
+C:\Users\Bene\Desktop\EASJ\3. semester\Eksamen3\MeyerWebService\Playerconsumer\obj\Debug\netcoreapp2.1\Playerconsumer.pdb
