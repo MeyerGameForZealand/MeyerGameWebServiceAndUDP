@@ -13,12 +13,13 @@ namespace MeyerWebService.Controllers
     [ApiController]
     public class PiDataController : ControllerBase
     {
+        //Variables for SQL connection and SQL string. 
         public SqlConnection conn = new SqlConnection();
-
         public SqlCommand Command;
-
         public static string outputsingle;
 
+
+        //The GET method for all PiData.
         // GET: api/PiData
         [HttpGet]
         public string GetAllPiData()
@@ -58,6 +59,7 @@ namespace MeyerWebService.Controllers
         //{
         //}
 
+        //The PUT method for changing the existing PiData data in the MeyerDatabase database.
         // PUT: api/PiData/5
         [HttpPut("{id}")]
         public void UpdateThrow([FromBody] PiData piData)
