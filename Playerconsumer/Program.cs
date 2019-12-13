@@ -14,11 +14,15 @@ namespace Playerconsumer
     {
         static void Main(string[] args)
         {
+            //Setup of connection
             UdpClient udpClient = new UdpClient(7000);
             IPAddress ip = IPAddress.Parse("127.0.0.1");
-
             IPEndPoint remoteIpEndpoint = new IPEndPoint(IPAddress.Any, 7000);
+            
+            //Connection feedback string. Has no importance for the program.
             Console.WriteLine("Server is activated... maybe");
+
+            // loop that receives data from our raspberry pi and updates the MeyerDatabase database.
             while (true)
             {
                 Byte[] receivedBytes = udpClient.Receive(ref remoteIpEndpoint);
@@ -47,7 +51,7 @@ namespace Playerconsumer
             }
         }
 
-
+        //Method updating existing data in the MeyerDatabase database.
         public static async void PutPiData(PiData piData)
         {
             using (HttpClient client = new HttpClient())

@@ -6,6 +6,7 @@ namespace Playerconsumer
 {
     class PiData
     {
+        //Properties for the class PiData.
         public int PiDataId { get; set; }
         public int Player1HP { get; set; }
         public int Player2HP { get; set; }
@@ -17,11 +18,28 @@ namespace Playerconsumer
         public int PlayerAmount { get; set; }
         public int Winner { get; set; }
 
+
+        /// <summary>
+        /// Empty constructor
+        /// </summary>
         public PiData()
         {
 
         }
 
+        /// <summary>
+        /// Constructor setting all properties for the class PiData.
+        /// </summary>
+        /// <param name="piDataId"></param>
+        /// <param name="player1Hp"></param>
+        /// <param name="player2Hp"></param>
+        /// <param name="player3Hp"></param>
+        /// <param name="player4Hp"></param>
+        /// <param name="player5Hp"></param>
+        /// <param name="player6Hp"></param>
+        /// <param name="turn"></param>
+        /// <param name="playerAmount"></param>
+        /// <param name="winner"></param>
         public PiData(int piDataId, int player1Hp, int player2Hp, int player3Hp, int player4Hp, int player5Hp, int player6Hp, int turn, int playerAmount, int winner)
         {
             PiDataId = piDataId;
